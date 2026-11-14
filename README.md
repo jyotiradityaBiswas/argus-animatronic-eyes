@@ -31,7 +31,7 @@ Hardware:
 
 ### V4 Vision:
 The final version of Argus, after which I would plan to retire it and start working on something else. Inspired from MIT's Kismet robot, Argus will now have two cameras (one for each eye), mounted inside the eyes' pupils. The camera used will likely be a OV2640, used with the ESP32-CAM board. It's a really great upgrade, and allows Argus to track objects and people, and also comment on things it sees with its AI. Here is a photo of MIT's Kismet robot:<br>
-<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/1cd06087-9be8-46d8-840b-1434ab607919" />
+<img width=200 alt="image" src="https://github.com/user-attachments/assets/1cd06087-9be8-46d8-840b-1434ab607919" style="height: auto;"/>
 
 Hardware:
 - 2x OV2640 cameras
