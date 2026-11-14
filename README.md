@@ -1,5 +1,6 @@
 # Argus
-Hello there! I am Jyotiraditya, a 13-year-old (as of me writing this on 14/11/2026) who is interested in electronics, 3D printing/modelling, mechanics, software and avionics! I recently started working on a project, which is in fact my first ever electronics project, called Argus. 
+Hello there! I am Jyotiraditya, a 13-year-old (as of me writing this on 14/11/2026) who is interested in electronics, 3D printing/modelling, mechanics, software and avionics! I recently started working on a project, which is in fact my first ever electronics project, called Argus. <br>
+The project is open-source by MIT License.<br>
 I had really been thinking about making a project, and I was confused between 2 options. They were a desk robot with a mic and a speaker for AI integration, and animatronic eyes with cheap components. After some thinking, I decided that I can merge these two projects into one! And there you have it, Argus was born. Argus is _planned_ to be a robot with animatronic eyes, with a mic, a speaker, a camera on each eye and a pan-tilt neck (maybe even more features if time allows and I don't lose interest). Argus is split into 4 versions rather than an all-in project. The versions are listed below
 
 ## Version Mapping
@@ -38,6 +39,8 @@ Hardware:
 - 2x ESP32-CAM 
 
 ## Current Progress and Latest Devlogs
+
+For the full devlog from the beginning till the latest, view [DEVLOGS.md](DEVLOGS.md). These are the latest three devlogs below.
 
 ### Prototype 3 in CAD [14/11/2026]
 I noticed that the socket was too big, and would not allow the cameras to fit in for V4. To prevent headaches later, I decided to optimize it in the prototyping stage itself. 
