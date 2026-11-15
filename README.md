@@ -42,6 +42,18 @@ Hardware:
 
 For the full devlog from the beginning till the latest, view [DEVLOGS.md](DEVLOGS.md). These are the latest three devlogs below.
 
+### Printed Prototype 3 [15/11/2026]
+So... Prototype 3 broke when I tried to pop in the eyeball. The snap-fit joint's tolerance is too low for this one. Here's some things that need to be improved in Prototype 4:
+- The thread tolerance is too low, it didn't manage to get all the way in (only about 20% of the thread went in). Maybe this was more of a print issue as the female thread on the stand seems to be printed not very properly inside. In fact, I think i should get rid of the threads.
+- Make the snap-fit joint's tolerance higher.
+- The supports are stuck inside the dome. Somehow, supports were needed for prototype 3 but not prototype 2. I think this is a slicer setting error rather than CAD error.
+- I added literally 6 wall loops to the ball shaft, but it still snapped. I think this was because of the orientation I printed it in. I'll need to get rid of the thread to print in the correct orientation.<br>
+
+Sad that I couldn't take a picture of the prototype while it was intact.
+Again, everyone learns from mistakes!
+
+![The broken prototype 2](Argus_Media/Broken_Prototype_3.jpeg)<br>
+
 ### Prototype 3 in CAD [14/11/2026]
 I noticed that the socket was too big, and would not allow the cameras to fit in for V4. To prevent headaches later, I decided to optimize it in the prototyping stage itself. 
 Just a few hours later, I broke the ball's shaft from the stand. Well, that's another good reason to make another prototype. <br>
@@ -73,20 +85,3 @@ Improvements noticed:
 
 Sanded down the ball to 600 grit and added a few drops of silicon-based oil on it for even more smoothness.<br>
 ![Prototype 2's design](Argus_Media/Prototype_2_CAD.png)
-
-### Prototype 1 [13/11/2026]
-Prototype 1 has failed. The socket is cut at a wrong angle, which makes it unable to hold the ball. The eye also seems too small right now (25mm). I'll change it to 35mm for later prototypes. The stand tips over as well. Everyone learns from mistakes!
-![Prototype 1 printed](Argus_Media/Prototype_1.jpeg)<br>
-![Prototype1 1's design](Argus_Media/Prototype_1_CAD.png)<br>
-
-
-
-
-
-
-
-
-
-
-
-
